@@ -1,0 +1,36 @@
+<div class="ranking-container">
+  <h2>The Ultimate University Ranking (Top 100)</h2>
+  
+  <table class="ranking-table">
+    <thead>
+      <tr>
+        <th class="col-name">Università e Nazione</th>
+        <th class="col-rank">QS</th>
+        <th class="col-rank">THE</th>
+        <th class="col-rank">ARWU</th>
+        <th class="col-rank">U.S. News</th>
+        <th class="col-ultimate">Ultimate Rank</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let uni of rankings">
+        <!-- 1. Nome e Nazione -->
+        <td class="col-name">
+          <div class="uni-name">{{ uni.name }}</div>
+          <div class="uni-country">{{ uni.country || 'N/A' }}</div>
+        </td>
+        
+        <!-- 2, 3, 4, 5. Breakdown dei Rank -->
+        <td class="col-rank">{{ uni.breakdown?.qs || '-' }}</td>
+        <td class="col-rank">{{ uni.breakdown?.the || '-' }}</td>
+        <td class="col-rank">{{ uni.breakdown?.arwu || '-' }}</td>
+        <td class="col-rank">{{ uni.breakdown?.usnews || '-' }}</td>
+        
+        <!-- 6. Ultimate Rank -->
+        <td class="col-ultimate">
+          <span class="badge">#{{ uni.ultimate_rank }}</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

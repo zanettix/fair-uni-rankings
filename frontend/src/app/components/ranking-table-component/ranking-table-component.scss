@@ -1,0 +1,72 @@
+.ranking-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+}
+
+.ranking-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.ranking-table thead {
+  background-color: #34495e;
+  color: #ffffff;
+}
+
+.ranking-table th, 
+.ranking-table td {
+  padding: 15px;
+  text-align: center;
+  border-bottom: 1px solid #ecf0f1;
+}
+
+.ranking-table th.col-name, 
+.ranking-table td.col-name {
+  text-align: left;
+}
+
+.ranking-table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+/* Stili specifici per le celle */
+.uni-name {
+  font-weight: 600;
+  color: #2c3e50;
+  font-size: 1.05rem;
+}
+
+.uni-country {
+  font-size: 0.85rem;
+  color: #7f8c8d;
+  margin-top: 4px;
+}
+
+.col-rank {
+  font-weight: 500;
+  color: #555;
+}
+
+.col-ultimate {
+  font-weight: bold;
+}
+
+.badge {
+  background-color: #e74c3c;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 1rem;
+}

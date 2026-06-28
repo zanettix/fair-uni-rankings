@@ -1,0 +1,1124 @@
+[
+  {
+    "name": "Massachusetts Institute of Technology (MIT)",
+    "country": "United States",
+    "average_rank": 1.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 1.0
+    },
+    "ultimate_rank": 1
+  },
+  {
+    "name": "Stanford University",
+    "country": "United States",
+    "average_rank": 3.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 2.0,
+      "the": 5.0,
+      "arwu": 2.0
+    },
+    "ultimate_rank": 2
+  },
+  {
+    "name": "University of Oxford",
+    "country": "United Kingdom",
+    "average_rank": 3.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 4.0,
+      "the": 1.0,
+      "arwu": 6.0
+    },
+    "ultimate_rank": 3
+  },
+  {
+    "name": "Harvard University",
+    "country": "United States",
+    "average_rank": 3.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 5.0,
+      "the": 5.0,
+      "arwu": 1.0
+    },
+    "ultimate_rank": 4
+  },
+  {
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "average_rank": 4.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 6.0,
+      "the": 3.0,
+      "arwu": 4.0
+    },
+    "ultimate_rank": 5
+  },
+  {
+    "name": "California Institute of Technology (Caltech)",
+    "country": "United States",
+    "average_rank": 7.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 7.0
+    },
+    "ultimate_rank": 6
+  },
+  {
+    "name": "California Institute of Technology",
+    "country": "United States",
+    "average_rank": 8.0,
+    "sources_count": 2,
+    "breakdown": {
+      "the": 7.0,
+      "arwu": 9.0
+    },
+    "ultimate_rank": 7
+  },
+  {
+    "name": "University of California, Berkeley (UCB)",
+    "country": "United States",
+    "average_rank": 11.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 20.0,
+      "the": 9.0,
+      "arwu": 5.0
+    },
+    "ultimate_rank": 8
+  },
+  {
+    "name": "Imperial College London",
+    "country": "United Kingdom",
+    "average_rank": 12.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 2.0,
+      "the": 8.0,
+      "arwu": 26.0
+    },
+    "ultimate_rank": 9
+  },
+  {
+    "name": "Nanyang Technological University, Singapore (NTU Singapore)",
+    "country": "Singapore",
+    "average_rank": 12.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 12.0
+    },
+    "ultimate_rank": 10
+  },
+  {
+    "name": "Yale University",
+    "country": "United States",
+    "average_rank": 12.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 16.0,
+      "the": 10.0,
+      "arwu": 11.0
+    },
+    "ultimate_rank": 11
+  },
+  {
+    "name": "Princeton University",
+    "country": "United States",
+    "average_rank": 12.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 27.0,
+      "the": 3.0,
+      "arwu": 7.0
+    },
+    "ultimate_rank": 12
+  },
+  {
+    "name": "ETH Zurich",
+    "country": "Switzerland",
+    "average_rank": 13.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 8.0,
+      "the": 11.0,
+      "arwu": 22.0
+    },
+    "ultimate_rank": 13
+  },
+  {
+    "name": "University College London",
+    "country": "United Kingdom",
+    "average_rank": 14.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 14.0
+    },
+    "ultimate_rank": 14
+  },
+  {
+    "name": "Tsinghua University",
+    "country": "China (Mainland)",
+    "average_rank": 14.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 14.0,
+      "the": 12.0,
+      "arwu": 18.0
+    },
+    "ultimate_rank": 15
+  },
+  {
+    "name": "UCL",
+    "country": "United Kingdom",
+    "average_rank": 15.0,
+    "sources_count": 2,
+    "breakdown": {
+      "qs": 8.0,
+      "the": 22.0
+    },
+    "ultimate_rank": 16
+  },
+  {
+    "name": "Cornell University",
+    "country": "United States",
+    "average_rank": 15.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 16.0,
+      "the": 18.0,
+      "arwu": 12.0
+    },
+    "ultimate_rank": 17
+  },
+  {
+    "name": "Peking University",
+    "country": "China (Mainland)",
+    "average_rank": 16.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 13.0,
+      "the": 13.0,
+      "arwu": 23.0
+    },
+    "ultimate_rank": 18
+  },
+  {
+    "name": "The University of Chicago",
+    "country": "United States",
+    "average_rank": 16.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 24.0,
+      "the": 15.0,
+      "arwu": 10.0
+    },
+    "ultimate_rank": 19
+  },
+  {
+    "name": "The Chinese University of Hong Kong (CUHK)",
+    "country": "Hong Kong SAR",
+    "average_rank": 18.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 18.0
+    },
+    "ultimate_rank": 20
+  },
+  {
+    "name": "Johns Hopkins University",
+    "country": "United States",
+    "average_rank": 18.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 20.0,
+      "the": 16.0,
+      "arwu": 19.0
+    },
+    "ultimate_rank": 21
+  },
+  {
+    "name": "The University of New South Wales (UNSW Sydney)",
+    "country": "Australia",
+    "average_rank": 19.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 19.0
+    },
+    "ultimate_rank": 22
+  },
+  {
+    "name": "University of California, San Francisco",
+    "country": "United States",
+    "average_rank": 21.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 21.0
+    },
+    "ultimate_rank": 23
+  },
+  {
+    "name": "Columbia University",
+    "country": "United States",
+    "average_rank": 23.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 43.0,
+      "the": 20.0,
+      "arwu": 8.0
+    },
+    "ultimate_rank": 24
+  },
+  {
+    "name": "University of Toronto",
+    "country": "Canada",
+    "average_rank": 26.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 32.0,
+      "the": 21.0,
+      "arwu": 25.0
+    },
+    "ultimate_rank": 25
+  },
+  {
+    "name": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "average_rank": 27.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 10.0,
+      "the": 17.0,
+      "arwu": 56.0
+    },
+    "ultimate_rank": 26
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA)",
+    "country": "United States",
+    "average_rank": 27.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 49.0,
+      "the": 18.0,
+      "arwu": 16.0
+    },
+    "ultimate_rank": 27
+  },
+  {
+    "name": "EPFL – École polytechnique fédérale de Lausanne",
+    "country": "Switzerland",
+    "average_rank": 28.5,
+    "sources_count": 2,
+    "breakdown": {
+      "qs": 22.0,
+      "the": 35.0
+    },
+    "ultimate_rank": 28
+  },
+  {
+    "name": "Rockefeller University",
+    "country": "United States",
+    "average_rank": 29.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 29.0
+    },
+    "ultimate_rank": 29
+  },
+  {
+    "name": "New York University",
+    "country": "United States",
+    "average_rank": 29.5,
+    "sources_count": 2,
+    "breakdown": {
+      "the": 31.0,
+      "arwu": 28.0
+    },
+    "ultimate_rank": 30
+  },
+  {
+    "name": "Nanyang Technological University, Singapore",
+    "country": "Singapore",
+    "average_rank": 31.0,
+    "sources_count": 1,
+    "breakdown": {
+      "the": 31.0
+    },
+    "ultimate_rank": 31
+  },
+  {
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "average_rank": 32.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 39.0,
+      "the": 26.0,
+      "arwu": 31.0
+    },
+    "ultimate_rank": 32
+  },
+  {
+    "name": "The University of Melbourne",
+    "country": "Australia",
+    "average_rank": 32.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 22.0,
+      "the": 37.0,
+      "arwu": 38.0
+    },
+    "ultimate_rank": 33
+  },
+  {
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "average_rank": 32.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 25.0,
+      "the": 27.0,
+      "arwu": 45.0
+    },
+    "ultimate_rank": 34
+  },
+  {
+    "name": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "average_rank": 33.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 35.0,
+      "the": 29.0,
+      "arwu": 37.0
+    },
+    "ultimate_rank": 35
+  },
+  {
+    "name": "Université PSL",
+    "country": "France",
+    "average_rank": 34.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 34.0
+    },
+    "ultimate_rank": 36
+  },
+  {
+    "name": "LMU Munich",
+    "country": "Germany",
+    "average_rank": 34.0,
+    "sources_count": 1,
+    "breakdown": {
+      "the": 34.0
+    },
+    "ultimate_rank": 37
+  },
+  {
+    "name": "Fudan University",
+    "country": "China (Mainland)",
+    "average_rank": 34.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 26.0,
+      "the": 36.0,
+      "arwu": 41.0
+    },
+    "ultimate_rank": 38
+  },
+  {
+    "name": "Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "average_rank": 35.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 36.0,
+      "the": 40.0,
+      "arwu": 30.0
+    },
+    "ultimate_rank": 39
+  },
+  {
+    "name": "Northwestern University",
+    "country": "United States",
+    "average_rank": 35.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 45.0,
+      "the": 30.0,
+      "arwu": 31.0
+    },
+    "ultimate_rank": 40
+  },
+  {
+    "name": "University of Michigan, Ann Arbor",
+    "country": "United States",
+    "average_rank": 35.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 51.0,
+      "the": 23.0,
+      "arwu": 33.0
+    },
+    "ultimate_rank": 41
+  },
+  {
+    "name": "Zhejiang University",
+    "country": "China (Mainland)",
+    "average_rank": 36.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 47.0,
+      "the": 39.0,
+      "arwu": 24.0
+    },
+    "ultimate_rank": 42
+  },
+  {
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "average_rank": 37.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 11.0,
+      "the": 33.0,
+      "arwu": 67.0
+    },
+    "ultimate_rank": 43
+  },
+  {
+    "name": "Pennsylvania State University",
+    "country": "United States",
+    "average_rank": 40.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 92.0,
+      "the": 14.0,
+      "arwu": 14.0
+    },
+    "ultimate_rank": 44
+  },
+  {
+    "name": "Paris Sciences et Lettres – PSL Research University Paris",
+    "country": "France",
+    "average_rank": 41.0,
+    "sources_count": 2,
+    "breakdown": {
+      "the": 48.0,
+      "arwu": 34.0
+    },
+    "ultimate_rank": 45
+  },
+  {
+    "name": "University of Munich",
+    "country": "Germany",
+    "average_rank": 42.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 42.0
+    },
+    "ultimate_rank": 46
+  },
+  {
+    "name": "Swiss Federal Institute of Technology Lausanne",
+    "country": "Switzerland",
+    "average_rank": 44.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 44.0
+    },
+    "ultimate_rank": 47
+  },
+  {
+    "name": "University of Washington",
+    "country": "United States",
+    "average_rank": 44.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 92.0,
+      "the": 25.0,
+      "arwu": 17.0
+    },
+    "ultimate_rank": 48
+  },
+  {
+    "name": "King's College London",
+    "country": "United Kingdom",
+    "average_rank": 45.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 37.0,
+      "the": 38.0,
+      "arwu": 61.0
+    },
+    "ultimate_rank": 49
+  },
+  {
+    "name": "The University of Manchester",
+    "country": "United Kingdom",
+    "average_rank": 47.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 40.0,
+      "the": 56.0,
+      "arwu": 46.0
+    },
+    "ultimate_rank": 50
+  },
+  {
+    "name": "University of British Columbia",
+    "country": "Canada",
+    "average_rank": 47.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 45.0,
+      "the": 45.0,
+      "arwu": 53.0
+    },
+    "ultimate_rank": 51
+  },
+  {
+    "name": "Duke University",
+    "country": "United States",
+    "average_rank": 48.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 70.0,
+      "the": 28.0,
+      "arwu": 46.0
+    },
+    "ultimate_rank": 52
+  },
+  {
+    "name": "McGill University",
+    "country": "Canada",
+    "average_rank": 49.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 30.0,
+      "the": 41.0,
+      "arwu": 76.0
+    },
+    "ultimate_rank": 53
+  },
+  {
+    "name": "University of California, San Diego (UCSD)",
+    "country": "United States",
+    "average_rank": 49.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 81.0,
+      "the": 47.0,
+      "arwu": 20.0
+    },
+    "ultimate_rank": 54
+  },
+  {
+    "name": "University of Minnesota, Twin Cities",
+    "country": "United States",
+    "average_rank": 51.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 51.0
+    },
+    "ultimate_rank": 55
+  },
+  {
+    "name": "Karolinska Institute",
+    "country": "Sweden",
+    "average_rank": 51.5,
+    "sources_count": 2,
+    "breakdown": {
+      "the": 53.0,
+      "arwu": 50.0
+    },
+    "ultimate_rank": 56
+  },
+  {
+    "name": "City University of Hong Kong (CityUHK)",
+    "country": "Hong Kong SAR",
+    "average_rank": 52.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 52.0
+    },
+    "ultimate_rank": 57
+  },
+  {
+    "name": "Université Paris-Saclay",
+    "country": "France",
+    "average_rank": 52.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 76.0,
+      "the": 68.0,
+      "arwu": 13.0
+    },
+    "ultimate_rank": 58
+  },
+  {
+    "name": "Monash University",
+    "country": "Australia",
+    "average_rank": 55.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 31.0,
+      "the": 58.0,
+      "arwu": 76.0
+    },
+    "ultimate_rank": 59
+  },
+  {
+    "name": "University of Illinois at Urbana-Champaign",
+    "country": "United States",
+    "average_rank": 56.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 74.0,
+      "the": 41.0,
+      "arwu": 53.0
+    },
+    "ultimate_rank": 60
+  },
+  {
+    "name": "Universiti Malaya (UM)",
+    "country": "Malaysia",
+    "average_rank": 56.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 56.0
+    },
+    "ultimate_rank": 61
+  },
+  {
+    "name": "Kyoto University",
+    "country": "Japan",
+    "average_rank": 57.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 64.0,
+      "the": 61.0,
+      "arwu": 46.0
+    },
+    "ultimate_rank": 62
+  },
+  {
+    "name": "The University of Texas at Austin",
+    "country": "United States",
+    "average_rank": 57.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 72.0,
+      "the": 50.0,
+      "arwu": 49.0
+    },
+    "ultimate_rank": 63
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "average_rank": 57.5,
+    "sources_count": 2,
+    "breakdown": {
+      "the": 112.0,
+      "arwu": 3.0
+    },
+    "ultimate_rank": 64
+  },
+  {
+    "name": "New York University (NYU)",
+    "country": "United States",
+    "average_rank": 58.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 58.0
+    },
+    "ultimate_rank": 65
+  },
+  {
+    "name": "University of Texas Southwestern Medical Center",
+    "country": "United States",
+    "average_rank": 58.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 58.0
+    },
+    "ultimate_rank": 66
+  },
+  {
+    "name": "Seoul National University",
+    "country": "South Korea",
+    "average_rank": 59.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 38.0,
+      "the": 58.0,
+      "arwu": 81.0
+    },
+    "ultimate_rank": 67
+  },
+  {
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "average_rank": 60.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 59.0,
+      "the": 46.0,
+      "arwu": 76.0
+    },
+    "ultimate_rank": 68
+  },
+  {
+    "name": "Ludwig-Maximilians-Universität München",
+    "country": "Germany",
+    "average_rank": 61.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 61.0
+    },
+    "ultimate_rank": 69
+  },
+  {
+    "name": "Universität Heidelberg",
+    "country": "Germany",
+    "average_rank": 62.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 86.0,
+      "the": 49.0,
+      "arwu": 51.0
+    },
+    "ultimate_rank": 70
+  },
+  {
+    "name": "KFUPM",
+    "country": "Saudi Arabia",
+    "average_rank": 63.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 63.0
+    },
+    "ultimate_rank": 71
+  },
+  {
+    "name": "Sorbonne University",
+    "country": "France",
+    "average_rank": 64.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 73.0,
+      "the": 76.0,
+      "arwu": 43.0
+    },
+    "ultimate_rank": 72
+  },
+  {
+    "name": "KAIST",
+    "country": "South Korea",
+    "average_rank": 65.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 65.0
+    },
+    "ultimate_rank": 73
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "country": "United States",
+    "average_rank": 68.2,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 55.0,
+      "the": 24.0,
+      "arwu": 125.5
+    },
+    "ultimate_rank": 74
+  },
+  {
+    "name": "Weizmann Institute of Science",
+    "country": "Israel",
+    "average_rank": 71.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 71.0
+    },
+    "ultimate_rank": 75
+  },
+  {
+    "name": "University of Copenhagen",
+    "country": "Denmark",
+    "average_rank": 71.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 90.0,
+      "the": 90.0,
+      "arwu": 35.0
+    },
+    "ultimate_rank": 76
+  },
+  {
+    "name": "University of Wisconsin, Madison",
+    "country": "United States",
+    "average_rank": 73.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 131.0,
+      "the": 53.0,
+      "arwu": 36.0
+    },
+    "ultimate_rank": 77
+  },
+  {
+    "name": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "average_rank": 75.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 134.0,
+      "the": 51.0,
+      "arwu": 40.0
+    },
+    "ultimate_rank": 78
+  },
+  {
+    "name": "Trinity College Dublin, The University of Dublin",
+    "country": "Ireland",
+    "average_rank": 75.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 75.0
+    },
+    "ultimate_rank": 79
+  },
+  {
+    "name": "Nanjing University",
+    "country": "China (Mainland)",
+    "average_rank": 75.7,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 90.0,
+      "the": 62.0,
+      "arwu": 75.0
+    },
+    "ultimate_rank": 80
+  },
+  {
+    "name": "Australian National University (ANU)",
+    "country": "Australia",
+    "average_rank": 75.8,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 29.0,
+      "the": 73.0,
+      "arwu": 125.5
+    },
+    "ultimate_rank": 81
+  },
+  {
+    "name": "University of Bristol",
+    "country": "United Kingdom",
+    "average_rank": 78.3,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 57.0,
+      "the": 80.0,
+      "arwu": 98.0
+    },
+    "ultimate_rank": 82
+  },
+  {
+    "name": "UNSW Sydney",
+    "country": "Australia",
+    "average_rank": 79.0,
+    "sources_count": 1,
+    "breakdown": {
+      "the": 79.0
+    },
+    "ultimate_rank": 83
+  },
+  {
+    "name": "University of Bonn",
+    "country": "Germany",
+    "average_rank": 80.0,
+    "sources_count": 2,
+    "breakdown": {
+      "the": 92.0,
+      "arwu": 68.0
+    },
+    "ultimate_rank": 84
+  },
+  {
+    "name": "The University of New South Wales",
+    "country": "Australia",
+    "average_rank": 80.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 80.0
+    },
+    "ultimate_rank": 85
+  },
+  {
+    "name": "University of Zurich",
+    "country": "Switzerland",
+    "average_rank": 81.0,
+    "sources_count": 2,
+    "breakdown": {
+      "qs": 98.0,
+      "arwu": 64.0
+    },
+    "ultimate_rank": 86
+  },
+  {
+    "name": "University of Amsterdam",
+    "country": "Netherlands",
+    "average_rank": 82.5,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 60.0,
+      "the": 62.0,
+      "arwu": 125.5
+    },
+    "ultimate_rank": 87
+  },
+  {
+    "name": "Ohio State University, Columbus",
+    "country": "United States",
+    "average_rank": 83.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 83.0
+    },
+    "ultimate_rank": 88
+  },
+  {
+    "name": "The Chinese University of Hong Kong",
+    "country": "Hong Kong",
+    "average_rank": 83.2,
+    "sources_count": 2,
+    "breakdown": {
+      "the": 41.0,
+      "arwu": 125.5
+    },
+    "ultimate_rank": 89
+  },
+  {
+    "name": "Universidad de Buenos Aires (UBA)",
+    "country": "Argentina",
+    "average_rank": 84.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 84.0
+    },
+    "ultimate_rank": 90
+  },
+  {
+    "name": "Utrecht University",
+    "country": "Netherlands",
+    "average_rank": 84.5,
+    "sources_count": 2,
+    "breakdown": {
+      "qs": 113.0,
+      "arwu": 56.0
+    },
+    "ultimate_rank": 91
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "country": "United States",
+    "average_rank": 85.0,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 162.0,
+      "the": 67.0,
+      "arwu": 26.0
+    },
+    "ultimate_rank": 92
+  },
+  {
+    "name": "Brown University",
+    "country": "United States",
+    "average_rank": 85.5,
+    "sources_count": 3,
+    "breakdown": {
+      "qs": 66.0,
+      "the": 65.0,
+      "arwu": 125.5
+    },
+    "ultimate_rank": 93
+  },
+  {
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "average_rank": 86.0,
+    "sources_count": 2,
+    "breakdown": {
+      "the": 73.0,
+      "arwu": 99.0
+    },
+    "ultimate_rank": 94
+  },
+  {
+    "name": "Yonsei University (Seoul campus)",
+    "country": "South Korea",
+    "average_rank": 86.0,
+    "sources_count": 1,
+    "breakdown": {
+      "the": 86.0
+    },
+    "ultimate_rank": 95
+  },
+  {
+    "name": "The University of Texas MD Anderson Cancer Center",
+    "country": "United States",
+    "average_rank": 86.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 86.0
+    },
+    "ultimate_rank": 96
+  },
+  {
+    "name": "The University of Technology Sydney (UTS)",
+    "country": "Australia",
+    "average_rank": 87.0,
+    "sources_count": 1,
+    "breakdown": {
+      "qs": 87.0
+    },
+    "ultimate_rank": 97
+  },
+  {
+    "name": "University of Minnesota",
+    "country": "United States",
+    "average_rank": 88.0,
+    "sources_count": 1,
+    "breakdown": {
+      "the": 88.0
+    },
+    "ultimate_rank": 98
+  },
+  {
+    "name": "Nanyang Technological University",
+    "country": "Singapore",
+    "average_rank": 88.0,
+    "sources_count": 1,
+    "breakdown": {
+      "arwu": 88.0
+    },
+    "ultimate_rank": 99
+  },
+  {
+    "name": "Charité - Universitätsmedizin Berlin",
+    "country": "Germany",
+    "average_rank": 91.0,
+    "sources_count": 1,
+    "breakdown": {
+      "the": 91.0
+    },
+    "ultimate_rank": 100
+  }
+]

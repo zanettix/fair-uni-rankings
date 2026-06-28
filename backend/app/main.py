@@ -7,6 +7,7 @@ from .scrapers.qs_scraper import scrape_qs
 from .scrapers.the_scraper import scrape_the
 from .scrapers.arwu_scraper import scrape_arwu
 from .scrapers.us_scraper import scrape_usnews
+from .aggregator import generate_ultimate_ranking
 
 app = FastAPI(
     title="University Rankings Scraper",
@@ -126,6 +127,22 @@ async def trigger_usnews_scrape():
         "total_universities": len(usnews_data),
         "file_saved_at": str(file_path)
     }
+
+@app.get("/api/rankings/ultimate")
+async def trigger_ultimate_ranking():
+    """Endpoint che aggrega i file JSON scaricati e genera l'Ultimate Ranking (Top 100)."""
+    
+    print("Inizio calcolo dell'Ultimate Ranking...")
+    try:
+        result = generate_ultimate_ranking()
+        
+        return {
+            "message": "Ultimate Ranking completato con successo!",
+            "total_universities": result["total_universities"],
+            "file_saved_at": result["file_path"]
+        }
+    except Exception as e:
+        return {"error": f"Si è verificato un errore durante l'aggregazione: {str(e)}"}
 
 if __name__ == "__main__":
     import uvicorn
