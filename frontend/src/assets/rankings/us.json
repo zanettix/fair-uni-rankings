@@ -2,2101 +2,1501 @@
   {
     "rank": "1",
     "name": "Harvard University",
-    "score": "100.0",
-    "country": "United States",
-    "region": "Cambridge (U.S.)"
+    "country": "United States"
   },
   {
     "rank": "2",
     "name": "Massachusetts Institute of Technology",
-    "score": "97.0",
-    "country": "United States",
-    "region": "Cambridge (U.S.)"
+    "country": "United States"
   },
   {
     "rank": "3",
     "name": "Stanford University",
-    "score": "94.4",
-    "country": "United States",
-    "region": "Stanford"
+    "country": "United States"
   },
   {
     "rank": "4",
     "name": "University of Oxford",
-    "score": "88.1",
-    "country": "United Kingdom",
-    "region": "Oxford"
+    "country": "United Kingdom"
   },
   {
     "rank": "5",
     "name": "University of Cambridge",
-    "score": "87.1",
-    "country": "United Kingdom",
-    "region": "Cambridge (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "6",
     "name": "Tsinghua University",
-    "score": "86.5",
-    "country": "China",
-    "region": "Beijing"
+    "country": "China"
   },
   {
     "rank": "7",
     "name": "University of California--Berkeley",
-    "score": "86.4",
-    "country": "United States",
-    "region": "Berkeley"
+    "country": "United States"
   },
   {
     "rank": "8",
     "name": "Yale University",
-    "score": "86.0",
-    "country": "United States",
-    "region": "New Haven"
+    "country": "United States"
   },
   {
     "rank": "9",
     "name": "University College London",
-    "score": "85.3",
-    "country": "United Kingdom",
-    "region": "London (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "10",
     "name": "Columbia University",
-    "score": "85.0",
-    "country": "United States",
-    "region": "New York City"
+    "country": "United States"
   },
   {
     "rank": "11",
     "name": "University of California--Los Angeles",
-    "score": "84.8",
-    "country": "United States",
-    "region": "Los Angeles"
+    "country": "United States"
   },
   {
     "rank": "12",
     "name": "University of Washington",
-    "score": "84.4",
-    "country": "United States",
-    "region": "Seattle"
+    "country": "United States"
   },
   {
     "rank": "13",
     "name": "Cornell University",
-    "score": "84.2",
-    "country": "United States",
-    "region": "Ithaca"
+    "country": "United States"
   },
   {
     "rank": "14",
     "name": "Imperial College London",
-    "score": "83.9",
-    "country": "United Kingdom",
-    "region": "London (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "14",
     "name": "Princeton University",
-    "score": "83.9",
-    "country": "United States",
-    "region": "Princeton"
+    "country": "United States"
   },
   {
     "rank": "16",
     "name": "National University of Singapore",
-    "score": "83.8",
-    "country": "Singapore",
-    "region": "Singapore"
+    "country": "Singapore"
   },
   {
     "rank": "17",
     "name": "Johns Hopkins University",
-    "score": "83.4",
-    "country": "United States",
-    "region": "Baltimore"
+    "country": "United States"
   },
   {
     "rank": "17",
     "name": "University of Pennsylvania",
-    "score": "83.4",
-    "country": "United States",
-    "region": "Philadelphia"
+    "country": "United States"
   },
   {
     "rank": "19",
     "name": "Peking University",
-    "score": "83.1",
-    "country": "China",
-    "region": "Beijing"
+    "country": "China"
   },
   {
     "rank": "20",
     "name": "University of Toronto",
-    "score": "82.8",
-    "country": "Canada",
-    "region": "Toronto"
+    "country": "Canada"
   },
   {
     "rank": "21",
     "name": "University of Michigan--Ann Arbor",
-    "score": "82.5",
-    "country": "United States",
-    "region": "Ann Arbor"
+    "country": "United States"
   },
   {
     "rank": "22",
     "name": "University of California--San Francisco",
-    "score": "82.1",
-    "country": "United States",
-    "region": "San Francisco"
+    "country": "United States"
   },
   {
     "rank": "23",
     "name": "California Institute of Technology",
-    "score": "81.6",
-    "country": "United States",
-    "region": "Pasadena"
+    "country": "United States"
   },
   {
     "rank": "23",
     "name": "University of California--San Diego",
-    "score": "81.6",
-    "country": "United States",
-    "region": "La Jolla"
+    "country": "United States"
   },
   {
     "rank": "25",
     "name": "University of Chicago",
-    "score": "81.3",
-    "country": "United States",
-    "region": "Chicago"
+    "country": "United States"
   },
   {
     "rank": "26",
     "name": "Northwestern University",
-    "score": "80.7",
-    "country": "United States",
-    "region": "Evanston"
+    "country": "United States"
   },
   {
     "rank": "27",
     "name": "Nanyang Technological University",
-    "score": "80.4",
-    "country": "Singapore",
-    "region": "Singapore"
+    "country": "Singapore"
   },
   {
     "rank": "28",
     "name": "Chinese University Hong Kong",
-    "score": "79.7",
-    "country": "Hong Kong",
-    "region": "Shatin"
+    "country": "Hong Kong"
   },
   {
     "rank": "28",
     "name": "University of Melbourne",
-    "score": "79.7",
-    "country": "Australia",
-    "region": "Parkville"
+    "country": "Australia"
   },
   {
     "rank": "30",
     "name": "Duke University",
-    "score": "79.5",
-    "country": "United States",
-    "region": "Durham (North Carolina, U.S.)"
+    "country": "United States"
   },
   {
     "rank": "31",
     "name": "University of Sydney",
-    "score": "79.0",
-    "country": "Australia",
-    "region": "Sydney"
+    "country": "Australia"
   },
   {
     "rank": "32",
     "name": "Washington University in St. Louis",
-    "score": "78.8",
-    "country": "United States",
-    "region": "St. Louis"
+    "country": "United States"
   },
   {
     "rank": "33",
     "name": "Swiss Federal Institute of Technology Zurich",
-    "score": "78.6",
-    "country": "Switzerland",
-    "region": "Zurich"
+    "country": "Switzerland"
   },
   {
     "rank": "33",
     "name": "University of New South Wales",
-    "score": "78.6",
-    "country": "Australia",
-    "region": "Kensington"
+    "country": "Australia"
   },
   {
     "rank": "35",
     "name": "Zhejiang University",
-    "score": "78.1",
-    "country": "China",
-    "region": "Hangzhou"
+    "country": "China"
   },
   {
     "rank": "36",
     "name": "New York University",
-    "score": "77.8",
-    "country": "United States",
-    "region": "New York City"
+    "country": "United States"
   },
   {
     "rank": "37",
     "name": "Shanghai Jiao Tong University",
-    "score": "77.7",
-    "country": "China",
-    "region": "Shanghai"
+    "country": "China"
   },
   {
     "rank": "38",
     "name": "Monash University",
-    "score": "77.6",
-    "country": "Australia",
-    "region": "Clayton"
+    "country": "Australia"
   },
   {
     "rank": "39",
     "name": "University of Amsterdam",
-    "score": "77.5",
-    "country": "Netherlands",
-    "region": "Amsterdam"
+    "country": "Netherlands"
   },
   {
     "rank": "40",
     "name": "University of Hong Kong",
-    "score": "77.2",
-    "country": "Hong Kong",
-    "region": "Pok Fu Lam"
+    "country": "Hong Kong"
   },
   {
     "rank": "41",
     "name": "University of Edinburgh",
-    "score": "76.9",
-    "country": "United Kingdom",
-    "region": "Edinburgh"
+    "country": "United Kingdom"
   },
   {
     "rank": "42",
     "name": "King's College London",
-    "score": "76.3",
-    "country": "United Kingdom",
-    "region": "London (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "42",
     "name": "University of British Columbia",
-    "score": "76.3",
-    "country": "Canada",
-    "region": "Vancouver"
+    "country": "Canada"
   },
   {
     "rank": "42",
     "name": "University of Queensland Australia",
-    "score": "76.3",
-    "country": "Australia",
-    "region": "Brisbane"
+    "country": "Australia"
   },
   {
     "rank": "45",
     "name": "University of Copenhagen",
-    "score": "75.5",
-    "country": "Denmark",
-    "region": "Copenhagen"
+    "country": "Denmark"
   },
   {
     "rank": "46",
     "name": "Icahn School of Medicine at Mount Sinai",
-    "score": "75.3",
-    "country": "United States",
-    "region": "New York City"
+    "country": "United States"
   },
   {
     "rank": "47",
     "name": "City University Hong Kong",
-    "score": "75.1",
-    "country": "Hong Kong",
-    "region": "Kowloon"
+    "country": "Hong Kong"
   },
   {
     "rank": "48",
     "name": "KU Leuven",
-    "score": "75.0",
-    "country": "Belgium",
-    "region": "Leuven"
+    "country": "Belgium"
   },
   {
     "rank": "49",
     "name": "Fudan University",
-    "score": "74.9",
-    "country": "China",
-    "region": "Shanghai"
+    "country": "China"
   },
   {
     "rank": "50",
     "name": "University of Munich",
-    "score": "74.8",
-    "country": "Germany",
-    "region": "Munich"
+    "country": "Germany"
   },
   {
     "rank": "51",
     "name": "Humboldt-Universität zu Berlin",
-    "score": "74.7",
-    "country": "Germany",
-    "region": "Berlin"
+    "country": "Germany"
   },
   {
     "rank": "52",
     "name": "Hong Kong Polytechnic University",
-    "score": "74.6",
-    "country": "Hong Kong",
-    "region": "Kowloon"
+    "country": "Hong Kong"
   },
   {
     "rank": "53",
     "name": "University of Chinese Academy of Sciences",
-    "score": "74.3",
-    "country": "China",
-    "region": "Beijing"
+    "country": "China"
   },
   {
     "rank": "54",
     "name": "Utrecht University",
-    "score": "74.1",
-    "country": "Netherlands",
-    "region": "Utrecht"
+    "country": "Netherlands"
   },
   {
     "rank": "55",
     "name": "University of North Carolina--Chapel Hill",
-    "score": "73.7",
-    "country": "United States",
-    "region": "Chapel Hill"
+    "country": "United States"
   },
   {
     "rank": "56",
     "name": "University of Texas--Austin",
-    "score": "73.6",
-    "country": "United States",
-    "region": "Austin"
+    "country": "United States"
   },
   {
     "rank": "57",
     "name": "Karolinska Institute",
-    "score": "73.4",
-    "country": "Sweden",
-    "region": "Stockholm"
+    "country": "Sweden"
   },
   {
     "rank": "57",
     "name": "University of Pittsburgh",
-    "score": "73.4",
-    "country": "United States",
-    "region": "Pittsburgh"
+    "country": "United States"
   },
   {
     "rank": "59",
     "name": "University of Science & Technology of China, CAS",
-    "score": "73.2",
-    "country": "China",
-    "region": "Hefei"
+    "country": "China"
   },
   {
     "rank": "60",
     "name": "University of Wisconsin--Madison",
-    "score": "73.1",
-    "country": "United States",
-    "region": "Madison"
+    "country": "United States"
   },
   {
     "rank": "61",
     "name": "Leiden University",
-    "score": "73.0",
-    "country": "Netherlands",
-    "region": "Leiden"
+    "country": "Netherlands"
   },
   {
     "rank": "61",
     "name": "Université de Paris",
-    "score": "73.0",
-    "country": "France",
-    "region": "Paris"
+    "country": "France"
   },
   {
     "rank": "63",
     "name": "Freie Universität Berlin",
-    "score": "72.9",
-    "country": "Germany",
-    "region": "Berlin"
+    "country": "Germany"
   },
   {
     "rank": "64",
     "name": "Emory University",
-    "score": "72.8",
-    "country": "United States",
-    "region": "Atlanta"
+    "country": "United States"
   },
   {
     "rank": "64",
     "name": "Ohio State University--Columbus",
-    "score": "72.8",
-    "country": "United States",
-    "region": "Columbus"
+    "country": "United States"
   },
   {
     "rank": "64",
     "name": "University of Zurich",
-    "score": "72.8",
-    "country": "Switzerland",
-    "region": "Zurich"
+    "country": "Switzerland"
   },
   {
     "rank": "67",
     "name": "Sorbonne Universite",
-    "score": "72.6",
-    "country": "France",
-    "region": "Paris"
+    "country": "France"
   },
   {
     "rank": "68",
     "name": "Heidelberg University",
-    "score": "72.5",
-    "country": "Germany",
-    "region": "Heidelberg"
+    "country": "Germany"
   },
   {
     "rank": "68",
     "name": "McGill University",
-    "score": "72.5",
-    "country": "Canada",
-    "region": "Montreal"
+    "country": "Canada"
   },
   {
     "rank": "68",
     "name": "University of Manchester",
-    "score": "72.5",
-    "country": "United Kingdom",
-    "region": "Manchester"
+    "country": "United Kingdom"
   },
   {
     "rank": "68",
     "name": "Vanderbilt University",
-    "score": "72.5",
-    "country": "United States",
-    "region": "Nashville"
+    "country": "United States"
   },
   {
     "rank": "72",
     "name": "University of Tokyo",
-    "score": "72.3",
-    "country": "Japan",
-    "region": "Tokyo"
+    "country": "Japan"
   },
   {
     "rank": "73",
     "name": "Technical University of Munich",
-    "score": "72.1",
-    "country": "Germany",
-    "region": "Munich"
+    "country": "Germany"
   },
   {
     "rank": "74",
     "name": "Sun Yat-sen University",
-    "score": "71.9",
-    "country": "China",
-    "region": "Guangzhou"
+    "country": "China"
   },
   {
     "rank": "74",
     "name": "University of Southern California",
-    "score": "71.9",
-    "country": "United States",
-    "region": "Los Angeles"
+    "country": "United States"
   },
   {
     "rank": "76",
     "name": "University of Minnesota--Twin Cities",
-    "score": "71.7",
-    "country": "United States",
-    "region": "Minneapolis"
+    "country": "United States"
   },
   {
     "rank": "77",
     "name": "Nanjing University",
-    "score": "71.3",
-    "country": "China",
-    "region": "Nanjing"
+    "country": "China"
   },
   {
     "rank": "77",
     "name": "University of Glasgow",
-    "score": "71.3",
-    "country": "United Kingdom",
-    "region": "Glasgow"
+    "country": "United Kingdom"
   },
   {
     "rank": "77",
     "name": "University of Groningen",
-    "score": "71.3",
-    "country": "Netherlands",
-    "region": "Groningen"
+    "country": "Netherlands"
   },
   {
     "rank": "80",
     "name": "École Polytechnique Federale of Lausanne",
-    "score": "71.2",
-    "country": "Switzerland",
-    "region": "Lausanne"
+    "country": "Switzerland"
   },
   {
     "rank": "81",
     "name": "Australian National University",
-    "score": "71.1",
-    "country": "Australia",
-    "region": "Canberra"
+    "country": "Australia"
   },
   {
     "rank": "82",
     "name": "Hong Kong University of Science and Technology",
-    "score": "71.0",
-    "country": "Hong Kong",
-    "region": "Hong Kong"
+    "country": "Hong Kong"
   },
   {
     "rank": "82",
     "name": "Universite Paris Saclay",
-    "score": "71.0",
-    "country": "France",
-    "region": "Saint-Aubin"
+    "country": "France"
   },
   {
     "rank": "82",
     "name": "University of Maryland--College Park",
-    "score": "71.0",
-    "country": "United States",
-    "region": "College Park"
+    "country": "United States"
   },
   {
     "rank": "85",
     "name": "Adelaide University",
-    "score": "70.9",
-    "country": "Australia",
-    "region": "Adelaide"
+    "country": "Australia"
   },
   {
     "rank": "85",
     "name": "University of Technology Sydney",
-    "score": "70.9",
-    "country": "Australia",
-    "region": "Ultimo"
+    "country": "Australia"
   },
   {
     "rank": "85",
     "name": "Wuhan University",
-    "score": "70.9",
-    "country": "China",
-    "region": "Wuhan"
+    "country": "China"
   },
   {
     "rank": "88",
     "name": "University of Barcelona",
-    "score": "70.7",
-    "country": "Spain",
-    "region": "Barcelona"
+    "country": "Spain"
   },
   {
     "rank": "89",
     "name": "Erasmus University Rotterdam",
-    "score": "70.6",
-    "country": "Netherlands",
-    "region": "Rotterdam"
+    "country": "Netherlands"
   },
   {
     "rank": "90",
     "name": "University of Western Australia",
-    "score": "70.5",
-    "country": "Australia",
-    "region": "Crawley"
+    "country": "Australia"
   },
   {
     "rank": "91",
     "name": "Vrije Universiteit Amsterdam",
-    "score": "70.3",
-    "country": "Netherlands",
-    "region": "Amsterdam"
+    "country": "Netherlands"
   },
   {
     "rank": "92",
     "name": "Huazhong University of Science and Technology",
-    "score": "70.2",
-    "country": "China",
-    "region": "Wuhan"
+    "country": "China"
   },
   {
     "rank": "92",
     "name": "Pennsylvania State University--University Park",
-    "score": "70.2",
-    "country": "United States",
-    "region": "University Park"
+    "country": "United States"
   },
   {
     "rank": "94",
     "name": "Georgia Institute of Technology",
-    "score": "70.1",
-    "country": "United States",
-    "region": "Atlanta"
+    "country": "United States"
   },
   {
     "rank": "95",
     "name": "University of California--Davis",
-    "score": "70.0",
-    "country": "United States",
-    "region": "Davis"
+    "country": "United States"
   },
   {
     "rank": "96",
     "name": "Boston University",
-    "score": "69.8",
-    "country": "United States",
-    "region": "Boston"
+    "country": "United States"
   },
   {
     "rank": "97",
     "name": "University of Birmingham",
-    "score": "69.6",
-    "country": "United Kingdom",
-    "region": "Birmingham (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "98",
     "name": "University of Illinois--Urbana-Champaign",
-    "score": "69.3",
-    "country": "United States",
-    "region": "Champaign"
+    "country": "United States"
   },
   {
     "rank": "99",
     "name": "University of California--Irvine",
-    "score": "69.2",
-    "country": "United States",
-    "region": "Irvine"
+    "country": "United States"
   },
   {
     "rank": "100",
     "name": "University of California--Santa Barbara",
-    "score": "69.1",
-    "country": "United States",
-    "region": "Santa Barbara"
+    "country": "United States"
   },
   {
     "rank": "101",
     "name": "Queen Mary, University of London",
-    "score": "68.9",
-    "country": "United Kingdom",
-    "region": "London (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "102",
     "name": "University of Arizona",
-    "score": "68.6",
-    "country": "United States",
-    "region": "Tucson"
+    "country": "United States"
   },
   {
     "rank": "103",
     "name": "King Abdullah University of Science and Technology",
-    "score": "68.5",
-    "country": "Saudi Arabia",
-    "region": "Thuwal"
+    "country": "Saudi Arabia"
   },
   {
     "rank": "104",
     "name": "Ghent University",
-    "score": "68.4",
-    "country": "Belgium",
-    "region": "Gent"
+    "country": "Belgium"
   },
   {
     "rank": "105",
     "name": "University of Colorado--Boulder",
-    "score": "68.3",
-    "country": "United States",
-    "region": "Boulder"
+    "country": "United States"
   },
   {
     "rank": "105",
     "name": "University of Florida",
-    "score": "68.3",
-    "country": "United States",
-    "region": "Gainesville"
+    "country": "United States"
   },
   {
     "rank": "105",
     "name": "University of Oslo",
-    "score": "68.3",
-    "country": "Norway",
-    "region": "Oslo"
+    "country": "Norway"
   },
   {
     "rank": "108",
     "name": "PSL Research University Paris (ComUE)",
-    "score": "68.2",
-    "country": "France",
-    "region": "Paris"
+    "country": "France"
   },
   {
     "rank": "109",
     "name": "University of Helsinki",
-    "score": "67.9",
-    "country": "Finland",
-    "region": "Helsinki"
+    "country": "Finland"
   },
   {
     "rank": "110",
     "name": "Tongji University",
-    "score": "67.8",
-    "country": "China",
-    "region": "Shanghai"
+    "country": "China"
   },
   {
     "rank": "111",
     "name": "Harbin Institute of Technology",
-    "score": "67.4",
-    "country": "China",
-    "region": "Harbin"
+    "country": "China"
   },
   {
     "rank": "112",
     "name": "Carnegie Mellon University",
-    "score": "67.3",
-    "country": "United States",
-    "region": "Pittsburgh"
+    "country": "United States"
   },
   {
     "rank": "113",
     "name": "University of Bern",
-    "score": "67.2",
-    "country": "Switzerland",
-    "region": "Bern"
+    "country": "Switzerland"
   },
   {
     "rank": "113",
     "name": "University of Texas Southwestern Medical Center--Dallas",
-    "score": "67.2",
-    "country": "United States",
-    "region": "Dallas"
+    "country": "United States"
   },
   {
     "rank": "115",
     "name": "Hunan University",
-    "score": "67.1",
-    "country": "China",
-    "region": "Changsha"
+    "country": "China"
   },
   {
     "rank": "115",
     "name": "University of Bristol",
-    "score": "67.1",
-    "country": "United Kingdom",
-    "region": "Bristol"
+    "country": "United Kingdom"
   },
   {
     "rank": "117",
     "name": "Aarhus University",
-    "score": "67.0",
-    "country": "Denmark",
-    "region": "Aarhus"
+    "country": "Denmark"
   },
   {
     "rank": "117",
     "name": "University of Auckland",
-    "score": "67.0",
-    "country": "New Zealand",
-    "region": "Auckland"
+    "country": "New Zealand"
   },
   {
     "rank": "119",
     "name": "Southern University of Science and Technology",
-    "score": "66.9",
-    "country": "China",
-    "region": "Shenzhen"
+    "country": "China"
   },
   {
     "rank": "119",
     "name": "Wageningen University and Research Center",
-    "score": "66.9",
-    "country": "Netherlands",
-    "region": "Wageningen"
+    "country": "Netherlands"
   },
   {
     "rank": "121",
     "name": "Seoul National University",
-    "score": "66.8",
-    "country": "South Korea",
-    "region": "Seoul"
+    "country": "South Korea"
   },
   {
     "rank": "122",
     "name": "King Abdulaziz University",
-    "score": "66.6",
-    "country": "Saudi Arabia",
-    "region": "Jeddah"
+    "country": "Saudi Arabia"
   },
   {
     "rank": "122",
     "name": "University of Cape Town",
-    "score": "66.6",
-    "country": "South Africa",
-    "region": "Cape Town"
+    "country": "South Africa"
   },
   {
     "rank": "124",
     "name": "Lund University",
-    "score": "66.5",
-    "country": "Sweden",
-    "region": "Lund"
+    "country": "Sweden"
   },
   {
     "rank": "125",
     "name": "Rockefeller University",
-    "score": "66.4",
-    "country": "United States",
-    "region": "New York City"
+    "country": "United States"
   },
   {
     "rank": "125",
     "name": "University of Southampton",
-    "score": "66.4",
-    "country": "United Kingdom",
-    "region": "Southampton"
+    "country": "United Kingdom"
   },
   {
     "rank": "127",
     "name": "London School of Hygiene and Tropical Medicine",
-    "score": "66.3",
-    "country": "United Kingdom",
-    "region": "London (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "127",
     "name": "Michigan State University",
-    "score": "66.3",
-    "country": "United States",
-    "region": "East Lansing"
+    "country": "United States"
   },
   {
     "rank": "129",
     "name": "University of Geneva",
-    "score": "66.2",
-    "country": "Switzerland",
-    "region": "Geneva"
+    "country": "Switzerland"
   },
   {
     "rank": "129",
     "name": "Xi'an Jiaotong University",
-    "score": "66.2",
-    "country": "China",
-    "region": "Xi'an"
+    "country": "China"
   },
   {
     "rank": "131",
     "name": "Autonomous University of Barcelona",
-    "score": "66.0",
-    "country": "Spain",
-    "region": "Barcelona"
+    "country": "Spain"
   },
   {
     "rank": "131",
     "name": "Central South University",
-    "score": "66.0",
-    "country": "China",
-    "region": "Changsha"
+    "country": "China"
   },
   {
     "rank": "133",
     "name": "Southeast University",
-    "score": "65.8",
-    "country": "China",
-    "region": "Nanjing"
+    "country": "China"
   },
   {
     "rank": "134",
     "name": "Universidade de São Paulo",
-    "score": "65.7",
-    "country": "Brazil",
-    "region": "Sao Paulo"
+    "country": "Brazil"
   },
   {
     "rank": "135",
     "name": "Beijing Normal University",
-    "score": "65.6",
-    "country": "China",
-    "region": "Beijing"
+    "country": "China"
   },
   {
     "rank": "135",
     "name": "University of Virginia",
-    "score": "65.6",
-    "country": "United States",
-    "region": "Charlottesville"
+    "country": "United States"
   },
   {
     "rank": "135",
     "name": "Yonsei University",
-    "score": "65.6",
-    "country": "South Korea",
-    "region": "Seoul"
+    "country": "South Korea"
   },
   {
     "rank": "138",
     "name": "University of Exeter",
-    "score": "65.5",
-    "country": "United Kingdom",
-    "region": "Exeter"
+    "country": "United Kingdom"
   },
   {
     "rank": "139",
     "name": "King Saud University",
-    "score": "65.4",
-    "country": "Saudi Arabia",
-    "region": "Riyadh"
+    "country": "Saudi Arabia"
   },
   {
     "rank": "139",
     "name": "Sichuan University",
-    "score": "65.4",
-    "country": "China",
-    "region": "Chengdu"
+    "country": "China"
   },
   {
     "rank": "141",
     "name": "University of California--Santa Cruz",
-    "score": "65.2",
-    "country": "United States",
-    "region": "Santa Cruz"
+    "country": "United States"
   },
   {
     "rank": "142",
     "name": "Deakin University",
-    "score": "65.1",
-    "country": "Australia",
-    "region": "Burwood"
+    "country": "Australia"
   },
   {
     "rank": "142",
     "name": "Radboud University Nijmegen",
-    "score": "65.1",
-    "country": "Netherlands",
-    "region": "Nijmegen"
+    "country": "Netherlands"
   },
   {
     "rank": "144",
     "name": "Baylor College of Medicine",
-    "score": "65.0",
-    "country": "United States",
-    "region": "Houston"
+    "country": "United States"
   },
   {
     "rank": "144",
     "name": "Brown University",
-    "score": "65.0",
-    "country": "United States",
-    "region": "Providence"
+    "country": "United States"
   },
   {
     "rank": "146",
     "name": "Nankai University",
-    "score": "64.9",
-    "country": "China",
-    "region": "Nankai"
+    "country": "China"
   },
   {
     "rank": "146",
     "name": "University of Hamburg",
-    "score": "64.9",
-    "country": "Germany",
-    "region": "Hamburg"
+    "country": "Germany"
   },
   {
     "rank": "146",
     "name": "University of Leeds",
-    "score": "64.9",
-    "country": "United Kingdom",
-    "region": "Leeds"
+    "country": "United Kingdom"
   },
   {
     "rank": "146",
     "name": "Uppsala University",
-    "score": "64.9",
-    "country": "Sweden",
-    "region": "Uppsala"
+    "country": "Sweden"
   },
   {
     "rank": "150",
     "name": "McMaster University",
-    "score": "64.8",
-    "country": "Canada",
-    "region": "Hamilton"
+    "country": "Canada"
   },
   {
     "rank": "150",
     "name": "University of Bologna",
-    "score": "64.8",
-    "country": "Italy",
-    "region": "Bologna"
+    "country": "Italy"
   },
   {
     "rank": "152",
     "name": "Beijing Institute of Technology",
-    "score": "64.7",
-    "country": "China",
-    "region": "Beijing"
+    "country": "China"
   },
   {
     "rank": "152",
     "name": "Purdue University--West Lafayette",
-    "score": "64.7",
-    "country": "United States",
-    "region": "West Lafayette"
+    "country": "United States"
   },
   {
     "rank": "152",
     "name": "University of Electronic Science and Technology of China",
-    "score": "64.7",
-    "country": "China",
-    "region": "Chengdu"
+    "country": "China"
   },
   {
     "rank": "155",
     "name": "Curtin University",
-    "score": "64.6",
-    "country": "Australia",
-    "region": "Bentley"
+    "country": "Australia"
   },
   {
     "rank": "155",
     "name": "Indiana University Bloomington",
-    "score": "64.6",
-    "country": "United States",
-    "region": "Bloomington"
+    "country": "United States"
   },
   {
     "rank": "155",
     "name": "Rutgers, The State University of New Jersey--New Brunswick",
-    "score": "64.6",
-    "country": "United States",
-    "region": "Piscataway Township"
+    "country": "United States"
   },
   {
     "rank": "155",
     "name": "Sapienza University of Rome",
-    "score": "64.6",
-    "country": "Italy",
-    "region": "Rome"
+    "country": "Italy"
   },
   {
     "rank": "155",
     "name": "University of Nottingham",
-    "score": "64.6",
-    "country": "United Kingdom",
-    "region": "Nottingham"
+    "country": "United Kingdom"
   },
   {
     "rank": "160",
     "name": "University of Massachusetts--Amherst",
-    "score": "64.5",
-    "country": "United States",
-    "region": "Amherst"
+    "country": "United States"
   },
   {
     "rank": "160",
     "name": "University of Milan",
-    "score": "64.5",
-    "country": "Italy",
-    "region": "Milan"
+    "country": "Italy"
   },
   {
     "rank": "162",
     "name": "Kyoto University",
-    "score": "64.4",
-    "country": "Japan",
-    "region": "Kyoto"
+    "country": "Japan"
   },
   {
     "rank": "162",
     "name": "South China University of Technology",
-    "score": "64.4",
-    "country": "China",
-    "region": "Guangzhou"
+    "country": "China"
   },
   {
     "rank": "164",
     "name": "Swinburne University of Technology",
-    "score": "64.3",
-    "country": "Australia",
-    "region": "Hawthorn"
+    "country": "Australia"
   },
   {
     "rank": "164",
     "name": "University of Alberta",
-    "score": "64.3",
-    "country": "Canada",
-    "region": "Edmonton"
+    "country": "Canada"
   },
   {
     "rank": "166",
     "name": "Shenzhen University",
-    "score": "64.2",
-    "country": "China",
-    "region": "Shenzhen"
+    "country": "China"
   },
   {
     "rank": "166",
     "name": "Tianjin University",
-    "score": "64.2",
-    "country": "China",
-    "region": "Tianjin"
+    "country": "China"
   },
   {
     "rank": "166",
     "name": "University of Leicester",
-    "score": "64.2",
-    "country": "United Kingdom",
-    "region": "Leicester"
+    "country": "United Kingdom"
   },
   {
     "rank": "169",
     "name": "University of Liverpool",
-    "score": "64.1",
-    "country": "United Kingdom",
-    "region": "Liverpool"
+    "country": "United Kingdom"
   },
   {
     "rank": "170",
     "name": "Delft University of Technology",
-    "score": "64.0",
-    "country": "Netherlands",
-    "region": "Delft"
+    "country": "Netherlands"
   },
   {
     "rank": "170",
     "name": "University of Utah",
-    "score": "64.0",
-    "country": "United States",
-    "region": "Salt Lake City"
+    "country": "United States"
   },
   {
     "rank": "172",
     "name": "Queensland University of Technology",
-    "score": "63.9",
-    "country": "Australia",
-    "region": "Brisbane"
+    "country": "Australia"
   },
   {
     "rank": "173",
     "name": "Macquarie University",
-    "score": "63.8",
-    "country": "Australia",
-    "region": "North Ryde"
+    "country": "Australia"
   },
   {
     "rank": "173",
     "name": "RMIT University",
-    "score": "63.8",
-    "country": "Australia",
-    "region": "Melbourne (Australia)"
+    "country": "Australia"
   },
   {
     "rank": "175",
     "name": "University of Padua",
-    "score": "63.7",
-    "country": "Italy",
-    "region": "Padua"
+    "country": "Italy"
   },
   {
     "rank": "176",
     "name": "Xiamen University",
-    "score": "63.6",
-    "country": "China",
-    "region": "Xiamen"
+    "country": "China"
   },
   {
     "rank": "177",
     "name": "Texas A&M University--College Station",
-    "score": "63.5",
-    "country": "United States",
-    "region": "College Station"
+    "country": "United States"
   },
   {
     "rank": "177",
     "name": "University of Gothenburg",
-    "score": "63.5",
-    "country": "Sweden",
-    "region": "Gothenburg"
+    "country": "Sweden"
   },
   {
     "rank": "179",
     "name": "Arizona State University--Tempe",
-    "score": "63.4",
-    "country": "United States",
-    "region": "Tempe"
+    "country": "United States"
   },
   {
     "rank": "179",
     "name": "University of Bonn",
-    "score": "63.4",
-    "country": "Germany",
-    "region": "Bonn"
+    "country": "Germany"
   },
   {
     "rank": "179",
     "name": "University of Lausanne",
-    "score": "63.4",
-    "country": "Switzerland",
-    "region": "Lausanne"
+    "country": "Switzerland"
   },
   {
     "rank": "182",
     "name": "Northwestern Polytechnical University",
-    "score": "63.2",
-    "country": "China",
-    "region": "Xi'an"
+    "country": "China"
   },
   {
     "rank": "183",
     "name": "Beihang University",
-    "score": "63.1",
-    "country": "China",
-    "region": "Beijing"
+    "country": "China"
   },
   {
     "rank": "183",
     "name": "Maastricht University",
-    "score": "63.1",
-    "country": "Netherlands",
-    "region": "Maastricht"
+    "country": "Netherlands"
   },
   {
     "rank": "183",
     "name": "Weizmann Institute of Science",
-    "score": "63.1",
-    "country": "Israel",
-    "region": "Rehovot"
+    "country": "Israel"
   },
   {
     "rank": "186",
     "name": "University of Sheffield",
-    "score": "63.0",
-    "country": "United Kingdom",
-    "region": "Sheffield"
+    "country": "United Kingdom"
   },
   {
     "rank": "187",
     "name": "University of Göttingen",
-    "score": "62.8",
-    "country": "Germany",
-    "region": "Gottingen"
+    "country": "Germany"
   },
   {
     "rank": "188",
     "name": "University of Alabama--Birmingham",
-    "score": "62.7",
-    "country": "United States",
-    "region": "Birmingham (U.S.)"
+    "country": "United States"
   },
   {
     "rank": "189",
     "name": "Case Western Reserve University",
-    "score": "62.6",
-    "country": "United States",
-    "region": "Cleveland"
+    "country": "United States"
   },
   {
     "rank": "189",
     "name": "Technical University of Denmark",
-    "score": "62.6",
-    "country": "Denmark",
-    "region": "Kongens Lyngby"
+    "country": "Denmark"
   },
   {
     "rank": "189",
     "name": "University of Basel",
-    "score": "62.6",
-    "country": "Switzerland",
-    "region": "Basel"
+    "country": "Switzerland"
   },
   {
     "rank": "192",
     "name": "China Agricultural University",
-    "score": "62.5",
-    "country": "China",
-    "region": "Beijing"
+    "country": "China"
   },
   {
     "rank": "193",
     "name": "Eberhard Karls University, Tübingen",
-    "score": "62.4",
-    "country": "Germany",
-    "region": "Tubingen"
+    "country": "Germany"
   },
   {
     "rank": "193",
     "name": "Stockholm University",
-    "score": "62.4",
-    "country": "Sweden",
-    "region": "Stockholm"
+    "country": "Sweden"
   },
   {
     "rank": "193",
     "name": "Tel Aviv University",
-    "score": "62.4",
-    "country": "Israel",
-    "region": "Tel Aviv"
+    "country": "Israel"
   },
   {
     "rank": "193",
     "name": "University of Colorado Anschutz Medical Campus",
-    "score": "62.4",
-    "country": "United States",
-    "region": "Aurora"
+    "country": "United States"
   },
   {
     "rank": "193",
     "name": "University of Montreal",
-    "score": "62.4",
-    "country": "Canada",
-    "region": "Montreal"
+    "country": "Canada"
   },
   {
     "rank": "193",
     "name": "University of Vienna",
-    "score": "62.4",
-    "country": "Austria",
-    "region": "Vienna"
+    "country": "Austria"
   },
   {
     "rank": "199",
     "name": "University of Waterloo",
-    "score": "62.3",
-    "country": "Canada",
-    "region": "Waterloo"
+    "country": "Canada"
   },
   {
     "rank": "200",
     "name": "University of Warwick",
-    "score": "62.2",
-    "country": "United Kingdom",
-    "region": "Coventry"
+    "country": "United Kingdom"
   },
   {
     "rank": "201",
     "name": "Rice University",
-    "score": "62.1",
-    "country": "United States",
-    "region": "Houston"
+    "country": "United States"
   },
   {
     "rank": "202",
     "name": "Chongqing University",
-    "score": "62.0",
-    "country": "China",
-    "region": "Chongqing"
+    "country": "China"
   },
   {
     "rank": "202",
     "name": "Newcastle University",
-    "score": "62.0",
-    "country": "United Kingdom",
-    "region": "Newcastle upon Tyne"
+    "country": "United Kingdom"
   },
   {
     "rank": "204",
     "name": "China University of Geosciences",
-    "score": "61.9",
-    "country": "China",
-    "region": "Wuhan"
+    "country": "China"
   },
   {
     "rank": "204",
     "name": "University of Wollongong",
-    "score": "61.9",
-    "country": "Australia",
-    "region": "Wollongong"
+    "country": "Australia"
   },
   {
     "rank": "206",
     "name": "University of Antwerp",
-    "score": "61.7",
-    "country": "Belgium",
-    "region": "Antwerp"
+    "country": "Belgium"
   },
   {
     "rank": "206",
     "name": "University of Macau",
-    "score": "61.7",
-    "country": "Macau",
-    "region": "Taipa"
+    "country": "Macau"
   },
   {
     "rank": "208",
     "name": "University of Calgary",
-    "score": "61.3",
-    "country": "Canada",
-    "region": "Calgary"
+    "country": "Canada"
   },
   {
     "rank": "208",
     "name": "University of Rochester",
-    "score": "61.3",
-    "country": "United States",
-    "region": "Rochester"
+    "country": "United States"
   },
   {
     "rank": "208",
     "name": "Zhengzhou University",
-    "score": "61.3",
-    "country": "China",
-    "region": "Zhengzhou"
+    "country": "China"
   },
   {
     "rank": "211",
     "name": "Cardiff University",
-    "score": "61.1",
-    "country": "United Kingdom",
-    "region": "Cardiff"
+    "country": "United Kingdom"
   },
   {
     "rank": "212",
     "name": "Technical University of Dresden",
-    "score": "61.0",
-    "country": "Germany",
-    "region": "Dresden"
+    "country": "Germany"
   },
   {
     "rank": "213",
     "name": "Medical University of Vienna",
-    "score": "60.9",
-    "country": "Austria",
-    "region": "Vienna"
+    "country": "Austria"
   },
   {
     "rank": "213",
     "name": "Trinity College Dublin",
-    "score": "60.9",
-    "country": "Ireland",
-    "region": "Dublin"
+    "country": "Ireland"
   },
   {
     "rank": "213",
     "name": "University of Cincinnati",
-    "score": "60.9",
-    "country": "United States",
-    "region": "Cincinnati"
+    "country": "United States"
   },
   {
     "rank": "216",
     "name": "University Catholique of Louvain",
-    "score": "60.8",
-    "country": "Belgium",
-    "region": "Louvain-la-Neuve"
+    "country": "Belgium"
   },
   {
     "rank": "216",
     "name": "University of Naples Federico II",
-    "score": "60.8",
-    "country": "Italy",
-    "region": "Naples"
+    "country": "Italy"
   },
   {
     "rank": "218",
     "name": "Johann Wolfgang Goethe University Frankfurt am Main",
-    "score": "60.7",
-    "country": "Germany",
-    "region": "Frankfurt am Main"
+    "country": "Germany"
   },
   {
     "rank": "218",
     "name": "Oregon Health and Science University",
-    "score": "60.7",
-    "country": "United States",
-    "region": "Portland"
+    "country": "United States"
   },
   {
     "rank": "218",
     "name": "University of Münster",
-    "score": "60.7",
-    "country": "Germany",
-    "region": "Munster"
+    "country": "Germany"
   },
   {
     "rank": "221",
     "name": "Cairo University",
-    "score": "60.6",
-    "country": "Egypt",
-    "region": "Giza"
+    "country": "Egypt"
   },
   {
     "rank": "222",
     "name": "Shandong University",
-    "score": "60.5",
-    "country": "China",
-    "region": "Jinan"
+    "country": "China"
   },
   {
     "rank": "223",
     "name": "Johannes Gutenberg University of Mainz",
-    "score": "60.4",
-    "country": "Germany",
-    "region": "Mainz"
+    "country": "Germany"
   },
   {
     "rank": "223",
     "name": "London School of Economics and Political Science",
-    "score": "60.4",
-    "country": "United Kingdom",
-    "region": "London (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "223",
     "name": "RWTH Aachen University",
-    "score": "60.4",
-    "country": "Germany",
-    "region": "Aachen"
+    "country": "Germany"
   },
   {
     "rank": "226",
     "name": "Griffith University",
-    "score": "60.3",
-    "country": "Australia",
-    "region": "Nathan"
+    "country": "Australia"
   },
   {
     "rank": "227",
     "name": "East China Normal University",
-    "score": "60.2",
-    "country": "China",
-    "region": "Shanghai"
+    "country": "China"
   },
   {
     "rank": "227",
     "name": "National and Kapodistrian University of Athens",
-    "score": "60.2",
-    "country": "Greece",
-    "region": "Athens (Greece)"
+    "country": "Greece"
   },
   {
     "rank": "227",
     "name": "University of Freiburg",
-    "score": "60.2",
-    "country": "Germany",
-    "region": "Freiburg"
+    "country": "Germany"
   },
   {
     "rank": "230",
     "name": "Charles University in Prague",
-    "score": "59.9",
-    "country": "Czech Republic",
-    "region": "Prague"
+    "country": "Czech Republic"
   },
   {
     "rank": "230",
     "name": "University of Turin",
-    "score": "59.9",
-    "country": "Italy",
-    "region": "Turin"
+    "country": "Italy"
   },
   {
     "rank": "232",
     "name": "Northeastern University",
-    "score": "59.7",
-    "country": "United States",
-    "region": "Boston"
+    "country": "United States"
   },
   {
     "rank": "233",
     "name": "Jiangsu University",
-    "score": "59.6",
-    "country": "China",
-    "region": "Zhenjiang"
+    "country": "China"
   },
   {
     "rank": "233",
     "name": "National Taiwan University",
-    "score": "59.6",
-    "country": "Taiwan",
-    "region": "Taipei"
+    "country": "Taiwan"
   },
   {
     "rank": "233",
     "name": "University of Miami",
-    "score": "59.6",
-    "country": "United States",
-    "region": "Coral Gables"
+    "country": "United States"
   },
   {
     "rank": "236",
     "name": "Stony Brook University--SUNY",
-    "score": "59.5",
-    "country": "United States",
-    "region": "Stony Brook"
+    "country": "United States"
   },
   {
     "rank": "237",
     "name": "Vita-Salute San Raffaele University",
-    "score": "59.4",
-    "country": "Italy",
-    "region": "Milan"
+    "country": "Italy"
   },
   {
     "rank": "238",
     "name": "Norwegian University of Science and Technology",
-    "score": "59.3",
-    "country": "Norway",
-    "region": "Trondheim"
+    "country": "Norway"
   },
   {
     "rank": "238",
     "name": "University of Cologne",
-    "score": "59.3",
-    "country": "Germany",
-    "region": "Koln"
+    "country": "Germany"
   },
   {
     "rank": "240",
     "name": "University of Witwatersrand",
-    "score": "59.2",
-    "country": "South Africa",
-    "region": "Johannesburg"
+    "country": "South Africa"
   },
   {
     "rank": "241",
     "name": "Queen's University Belfast",
-    "score": "59.0",
-    "country": "United Kingdom",
-    "region": "Belfast"
+    "country": "United Kingdom"
   },
   {
     "rank": "242",
     "name": "University of Newcastle",
-    "score": "58.9",
-    "country": "Australia",
-    "region": "Callaghan"
+    "country": "Australia"
   },
   {
     "rank": "242",
     "name": "Western Sydney University",
-    "score": "58.9",
-    "country": "Australia",
-    "region": "Penrith"
+    "country": "Australia"
   },
   {
     "rank": "244",
     "name": "Sungkyunkwan University",
-    "score": "58.8",
-    "country": "South Korea",
-    "region": "Seoul"
+    "country": "South Korea"
   },
   {
     "rank": "245",
     "name": "Korea Advanced Institute of Science and Technology",
-    "score": "58.7",
-    "country": "South Korea",
-    "region": "Daejeon"
+    "country": "South Korea"
   },
   {
     "rank": "245",
     "name": "University of Lisbon",
-    "score": "58.7",
-    "country": "Portugal",
-    "region": "Lisbon"
+    "country": "Portugal"
   },
   {
     "rank": "247",
     "name": "University of Aix-Marseille",
-    "score": "58.6",
-    "country": "France",
-    "region": "Marseille"
+    "country": "France"
   },
   {
     "rank": "247",
     "name": "University of Sharjah",
-    "score": "58.6",
-    "country": "United Arab Emirates",
-    "region": "Sharjah University City"
+    "country": "United Arab Emirates"
   },
   {
     "rank": "249",
     "name": "Royal Institute of Technology",
-    "score": "58.5",
-    "country": "Sweden",
-    "region": "Stockholm"
+    "country": "Sweden"
   },
   {
     "rank": "249",
     "name": "University of Iowa",
-    "score": "58.5",
-    "country": "United States",
-    "region": "Iowa City"
+    "country": "United States"
   },
   {
     "rank": "249",
     "name": "University of Würzburg",
-    "score": "58.5",
-    "country": "Germany",
-    "region": "Wurzburg"
+    "country": "Germany"
   },
   {
     "rank": "252",
     "name": "Technical University of Berlin",
-    "score": "58.4",
-    "country": "Germany",
-    "region": "Berlin"
+    "country": "Germany"
   },
   {
     "rank": "252",
     "name": "University of Illinois--Chicago",
-    "score": "58.4",
-    "country": "United States",
-    "region": "Chicago"
+    "country": "United States"
   },
   {
     "rank": "254",
     "name": "Dalian University of Technology",
-    "score": "58.3",
-    "country": "China",
-    "region": "Dalian"
+    "country": "China"
   },
   {
     "rank": "255",
     "name": "Jilin University",
-    "score": "58.1",
-    "country": "China",
-    "region": "Changchun"
+    "country": "China"
   },
   {
     "rank": "255",
     "name": "Korea University",
-    "score": "58.1",
-    "country": "South Korea",
-    "region": "Seoul"
+    "country": "South Korea"
   },
   {
     "rank": "255",
     "name": "University of Florence",
-    "score": "58.1",
-    "country": "Italy",
-    "region": "Florence"
+    "country": "Italy"
   },
   {
     "rank": "258",
     "name": "University College Dublin",
-    "score": "58.0",
-    "country": "Ireland",
-    "region": "Dublin"
+    "country": "Ireland"
   },
   {
     "rank": "259",
     "name": "Autonomous University of Madrid",
-    "score": "57.9",
-    "country": "Spain",
-    "region": "Madrid"
+    "country": "Spain"
   },
   {
     "rank": "259",
     "name": "George Washington University",
-    "score": "57.9",
-    "country": "United States",
-    "region": "Washington, D.C."
+    "country": "United States"
   },
   {
     "rank": "259",
     "name": "University of Montpellier",
-    "score": "57.9",
-    "country": "France",
-    "region": "Montpellier"
+    "country": "France"
   },
   {
     "rank": "262",
     "name": "University of California--Riverside",
-    "score": "57.8",
-    "country": "United States",
-    "region": "Riverside"
+    "country": "United States"
   },
   {
     "rank": "262",
     "name": "University of Qatar",
-    "score": "57.8",
-    "country": "Qatar",
-    "region": "Doha"
+    "country": "Qatar"
   },
   {
     "rank": "264",
     "name": "Osaka University",
-    "score": "57.7",
-    "country": "Japan",
-    "region": "Suita"
+    "country": "Japan"
   },
   {
     "rank": "264",
     "name": "University of Ibadan",
-    "score": "57.7",
-    "country": "Nigeria",
-    "region": "Ibadan"
+    "country": "Nigeria"
   },
   {
     "rank": "264",
     "name": "University of Ottawa",
-    "score": "57.7",
-    "country": "Canada",
-    "region": "Ottawa"
+    "country": "Canada"
   },
   {
     "rank": "267",
     "name": "Mansoura University",
-    "score": "57.6",
-    "country": "Egypt",
-    "region": "Mansoura"
+    "country": "Egypt"
   },
   {
     "rank": "268",
     "name": "North Carolina State University--Raleigh",
-    "score": "57.5",
-    "country": "United States",
-    "region": "Raleigh"
+    "country": "United States"
   },
   {
     "rank": "268",
     "name": "Tohoku University",
-    "score": "57.5",
-    "country": "Japan",
-    "region": "Sendai"
+    "country": "Japan"
   },
   {
     "rank": "270",
     "name": "Durham University",
-    "score": "57.4",
-    "country": "United Kingdom",
-    "region": "Durham (U.K.)"
+    "country": "United Kingdom"
   },
   {
     "rank": "270",
     "name": "Pompeu Fabra University",
-    "score": "57.4",
-    "country": "Spain",
-    "region": "Barcelona"
+    "country": "Spain"
   },
   {
     "rank": "270",
     "name": "University of Pisa",
-    "score": "57.4",
-    "country": "Italy",
-    "region": "Pisa"
+    "country": "Italy"
   },
   {
     "rank": "270",
     "name": "University of Tasmania",
-    "score": "57.4",
-    "country": "Australia",
-    "region": "Hobart"
+    "country": "Australia"
   },
   {
     "rank": "270",
     "name": "University of Valencia",
-    "score": "57.4",
-    "country": "Spain",
-    "region": "Valencia"
+    "country": "Spain"
   },
   {
     "rank": "275",
     "name": "Tufts University",
-    "score": "57.3",
-    "country": "United States",
-    "region": "Medford"
+    "country": "United States"
   },
   {
     "rank": "275",
     "name": "Université Libre de Bruxelles",
-    "score": "57.3",
-    "country": "Belgium",
-    "region": "Brussels"
+    "country": "Belgium"
   },
   {
     "rank": "275",
     "name": "University of Bergen",
-    "score": "57.3",
-    "country": "Norway",
-    "region": "Bergen"
+    "country": "Norway"
   },
   {
     "rank": "278",
     "name": "University of Southern Denmark",
-    "score": "57.2",
-    "country": "Denmark",
-    "region": "Odense"
+    "country": "Denmark"
   },
   {
     "rank": "279",
     "name": "Al Azhar University",
-    "score": "57.1",
-    "country": "Egypt",
-    "region": "Cairo"
+    "country": "Egypt"
   },
   {
     "rank": "279",
     "name": "Shanghai University",
-    "score": "57.1",
-    "country": "China",
-    "region": "Shanghai"
+    "country": "China"
   },
   {
     "rank": "281",
     "name": "Northwest A&F University - China",
-    "score": "57.0",
-    "country": "China",
-    "region": "Shaanxi"
+    "country": "China"
   },
   {
     "rank": "281",
     "name": "Universite de Bordeaux",
-    "score": "57.0",
-    "country": "France",
-    "region": "Talence"
+    "country": "France"
   },
   {
     "rank": "281",
     "name": "University of Johannesburg",
-    "score": "57.0",
-    "country": "South Africa",
-    "region": "Johannesburg"
+    "country": "South Africa"
   },
   {
     "rank": "281",
     "name": "University of Tartu",
-    "score": "57.0",
-    "country": "Estonia",
-    "region": "Tartu"
+    "country": "Estonia"
   },
   {
     "rank": "285",
     "name": "La Trobe University",
-    "score": "56.9",
-    "country": "Australia",
-    "region": "Melbourne (Australia)"
+    "country": "Australia"
   },
   {
     "rank": "285",
     "name": "United Arab Emirates University",
-    "score": "56.9",
-    "country": "United Arab Emirates",
-    "region": "Al-Ain"
+    "country": "United Arab Emirates"
   },
   {
     "rank": "285",
     "name": "Virginia Tech",
-    "score": "56.9",
-    "country": "United States",
-    "region": "Blacksburg"
+    "country": "United States"
   },
   {
     "rank": "288",
     "name": "Aalborg University",
-    "score": "56.8",
-    "country": "Denmark",
-    "region": "Aalborg"
+    "country": "Denmark"
   },
   {
     "rank": "288",
     "name": "Hebrew University of Jerusalem",
-    "score": "56.8",
-    "country": "Israel",
-    "region": "Jerusalem"
+    "country": "Israel"
   },
   {
     "rank": "290",
     "name": "Aalto University",
-    "score": "56.7",
-    "country": "Finland",
-    "region": "Esbo"
+    "country": "Finland"
   },
   {
     "rank": "290",
     "name": "Ain Shams University",
-    "score": "56.7",
-    "country": "Egypt",
-    "region": "Cairo"
+    "country": "Egypt"
   },
   {
     "rank": "290",
     "name": "Georgetown University",
-    "score": "56.7",
-    "country": "United States",
-    "region": "Washington, D.C."
+    "country": "United States"
   },
   {
     "rank": "290",
     "name": "University of Otago",
-    "score": "56.7",
-    "country": "New Zealand",
-    "region": "Dunedin"
+    "country": "New Zealand"
   },
   {
     "rank": "290",
     "name": "University of Porto",
-    "score": "56.7",
-    "country": "Portugal",
-    "region": "Porto"
+    "country": "Portugal"
   },
   {
     "rank": "290",
     "name": "Westlake University",
-    "score": "56.7",
-    "country": "China",
-    "region": "Hangzhou"
+    "country": "China"
   },
   {
     "rank": "296",
     "name": "Complutense University of Madrid",
-    "score": "56.6",
-    "country": "Spain",
-    "region": "Madrid"
+    "country": "Spain"
   },
   {
     "rank": "296",
     "name": "University of Sussex",
-    "score": "56.6",
-    "country": "United Kingdom",
-    "region": "Brighton"
+    "country": "United Kingdom"
   },
   {
     "rank": "296",
     "name": "University of Texas--San Antonio",
-    "score": "56.6",
-    "country": "United States",
-    "region": "San Antonio"
+    "country": "United States"
   },
   {
     "rank": "299",
     "name": "Karlsruhe Institute of Technology",
-    "score": "56.5",
-    "country": "Germany",
-    "region": "Karlsruhe"
+    "country": "Germany"
   },
   {
     "rank": "299",
     "name": "Leipzig University",
-    "score": "56.5",
-    "country": "Germany",
-    "region": "Leipzig"
+    "country": "Germany"
   }
 ]

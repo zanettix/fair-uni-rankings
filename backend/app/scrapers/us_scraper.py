@@ -23,7 +23,6 @@ async def scrape_usnews():
         print("Attesa per il superamento dei controlli anti-bot (10 secondi)...")
         await asyncio.sleep(10)
         
-        # 🎯 CORREZIONE 1: Aumentato a 15 click (10 iniziali + 15 * 30 = 460 università caricate)
         for i in range(1, 16):
             print(f"Caricamento blocco dinamico {i}/15...")
             await page.keyboard.press("End")
@@ -50,7 +49,6 @@ async def scrape_usnews():
                 
         print("Estrazione dati direttamente dal motore di rendering del browser...")
         
-        # Estrazione tramite il browser (RAW string per evitare conflitti con Python)
         extracted_data = await page.evaluate(r"""
             () => {
                 let results = [];
@@ -66,7 +64,7 @@ async def scrape_usnews():
                     let maxDepth = 6;
                     let rank = "";
                     let score = "";
-                    let locationStr = ""; // Salviamo l'intera stringa temporaneamente
+                    let locationStr = "";
                     
                     while (card && maxDepth > 0) {
                         let text = card.innerText || "";
@@ -89,12 +87,10 @@ async def scrape_usnews():
                     if (rank && score) {
                         let locElem = h.nextElementSibling;
                         if (locElem) {
-                            // 🎯 CORREZIONE 2: Catturiamo l'intero testo inclusivo di virgole e pipe
                             let rawLoc = locElem.innerText.trim();
-                            // Rimuoviamo ritorni a capo se presenti all'inizio o alla fine
                             locationStr = rawLoc.split('\n')[0].trim();
                         }
-                        results.push({ rank, name, score, raw_location: locationStr });
+                        results.push({ rank, name, raw_location: locationStr });
                     }
                 });
                 
@@ -118,32 +114,24 @@ async def scrape_usnews():
     
     for item in extracted_data:
         country = ""
-        region = ""
         
         raw_loc = item.get('raw_location', '')
         
-        # 🎯 CORREZIONE 2: Splittiamo la nazione (country) dalla città (region) basandoci sul pipe "|"
         if '|' in raw_loc:
             parts = raw_loc.split('|')
             country = parts[0].strip()
-            region = parts[1].strip() if len(parts) > 1 else ""
         elif ',' in raw_loc:
-            # Fallback se usassero la virgola (es: "United States, Cambridge")
             parts = raw_loc.split(',')
             country = parts[0].strip()
-            region = parts[1].strip() if len(parts) > 1 else ""
         else:
             country = raw_loc.strip()
 
         final_rankings.append({
             "rank": item["rank"],
             "name": item["name"],
-            "score": item["score"],
-            "country": country,
-            "region": region
+            "country": country
         })
     
-    # Ordiniamo in base al rank
     final_rankings.sort(key=lambda x: int(x['rank']))
     
     print(f"Estrazione conclusa! Salvataggio di {min(300, len(final_rankings))} università.")
